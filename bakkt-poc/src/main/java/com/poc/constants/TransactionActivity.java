@@ -1,0 +1,14 @@
+package com.poc.constants;
+
+public enum TransactionActivity {
+	
+	CREATED,
+	IN_PROGRESS,
+	SUCCESS,
+	DISPUTE_CREATED,
+	DISPUTE_ACCEPTED,
+	DISPUTE_REJECTED,
+	REFUND_INITIATED,
+	REFUND_PROCESSED,
+	FAILED;
+}
