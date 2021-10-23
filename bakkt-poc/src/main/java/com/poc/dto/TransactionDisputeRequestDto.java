@@ -14,8 +14,4 @@ public class TransactionDisputeRequestDto{
 	private Double disputeFees;
 	private List<Comments> comments;
 	
-	
-//	public void setDiscription(String discription) {
-//	    this.discription = LocalDateTime.now()+":-"+discription+"\r\n";
-//	  }
 }
